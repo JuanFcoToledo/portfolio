@@ -141,6 +141,11 @@ body {
   margin-top: -12px;
 }
 
+#portfolio .portfolio-item img {
+  width: 100%;
+  height: 170px;
+}
+
 #portfolio .portfolio-item .portfolio-hover-content h3,
 #portfolio .portfolio-item h4 {
   margin: 0;
