@@ -2,6 +2,7 @@
 
 @import "base";
 @import "layout";
+@import "faraday-retry";
 @import "syntax-highlighting";
 @import "bootstrap";
 
